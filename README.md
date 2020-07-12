@@ -1,6 +1,7 @@
 # polybar-crypto
 A *polybar script* that displays the price of various **crypto-currencies**.
 
+The API is no longera available, so I forked it as I get it working with another API.
 
 
 ![screen](https://user-images.githubusercontent.com/24377188/31326832-34dd06de-ad27-11e7-908f-9e7d72398eb7.jpg)
